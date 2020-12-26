@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'anshumanpanda'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_985ef85261644d3292065a8d805ecfc0 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_8c45de7e8a0c4ba29627985aa57a37e8 }}
